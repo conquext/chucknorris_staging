@@ -1,0 +1,6 @@
+@media screen and (max-width: 620px) {
+  .search-box {
+    margin-right: 1rem !important;
+    margin-left: 1rem !important;
+  }
+}
